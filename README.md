@@ -10,6 +10,9 @@ below are the screenshots of the application
 ![WhatsApp Image 2021-09-05 at 4 13 52 PM](https://user-images.githubusercontent.com/73938465/132130145-ff4f664d-289e-42fd-bbd3-b902e0f742fa.jpeg)
 the error get agency not found is prolly the agency name is not given in the website
 same goes for getprice
+![WhatsApp Image 2021-09-05 at 4 17 15 PM](https://user-images.githubusercontent.com/73938465/132130224-d0bb7133-7631-4bfd-aa19-4af0773fd239.jpeg)
+![WhatsApp Image 2021-09-05 at 4 18 36 PM](https://user-images.githubusercontent.com/73938465/132130273-5e6b3529-a4d9-4653-97a0-73f162cf61e4.jpeg)
+
 
 Thanks
 if there is any problem with the problem create a issue.
